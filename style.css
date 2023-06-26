@@ -1,0 +1,69 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(221, 226, 220); 
+}
+
+#busca{
+    width: '100%';
+    display: flex;   
+    font-family: serif;
+    font-size: 40px;    
+}
+
+#botao{
+    margin-top: 40px;
+    width: 70px;
+    height: 30px;
+    background-color: rgb(56, 146, 79);
+    color: aliceblue;
+}
+
+#cep{
+    height: 20px;
+    border-radius: 4px;
+}
+
+#cidade{
+    height: 20px;
+    width: 240px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#estado{
+    height: 20px;
+    width: 240px;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#bairro{
+    height: 20px;
+    width: 240px;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
+#logradouro{
+    height: 20px;
+    width: 240px;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+    
+}
+
+#país{
+    height: 20px;
+    width: 240px;
+    margin-bottom: 5px;
+
+    border-radius: 4px;
+}
+
